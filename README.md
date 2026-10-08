@@ -1,9 +1,27 @@
 # 1Clinic Intermed
 
-Projekt për **Programimi për Pajisje Mobile · Java 4 (2026/2027)**.
+Projekt për **Programimi për Pajisje Mobile · Javët 1–4 (2026/2027)**.
 Emri dhe pamja janë 1Clinic Intermed; rrjedha RideShare, tabela `udhetimet`
 dhe adresat e ushtrimit ruhen që projekti të përputhet me detyrën.
 Përdoren vetëm tri udhëtime fiktive. Nuk ka të dhëna pacientësh ose rezervime reale.
+
+## Materialet e Javëve 1–4
+
+| Java | Materiali | Gjendja |
+| --- | --- | --- |
+| 1 | [Exit Ticket](exit-ticket.md), [PRD Intermed](prd.md) | Plan klinike me burime publike; intervistat ende nuk janë kryer |
+| 2 | [Plani ekzistues, i plotësuar](java-02.md), [skica dixhitale](skica.png) | Rrjedha RideShare; prova me kolegun dhe fotoja e skicës në letër mbeten personale |
+| 3 | [Raporti ekzistues](java-03.md), aplikacioni/ | Lista, detajet, kërkesa dhe 404 janë ruajtur |
+| 4 | [Raporti dhe provat Neon](java-04.md), aplikacioni/schema.sql | Databaza u lidh dhe provat u kryen; dorëzimi kaloi 5/5 |
+
+PRD-ja e Intermed është projekti individual; RideShare është ushtrimi i
+përbashkët sipas faqes së lëndës. Nuk u rindërtua kodi i Javëve 3–4.
+Skica e mëparshme BarberBook mbeti në dosjen origjinale; `skica.png` këtu
+paraqet rrjedhën RideShare. Burimi i ndryshueshëm është [docs/skica.svg](docs/skica.svg).
+
+Përpara demonstrimit: verifiko qytetin e klinikës, kryej bisedat e PRD-së dhe
+provën me kolegun. Profilin e vijueshmërisë dhe QR-në në klasë i plotëson
+studenti vetë; këtu nuk deklarohet prani në orë.
 
 ## Nisja lokale
 
