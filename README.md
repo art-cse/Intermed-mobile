@@ -91,16 +91,11 @@ dhe `.next` nuk duhen dërguar.
 
 [Ushtrimi dhe udhëzimet origjinale](https://arbenl.github.io/lendet/2026-2027/mobile/java-04/ushtrimet.html)
 · [Formulari Java 4](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/new?template=mobile-submission.yml&week=Java%204)
-
 Pasi të përfundojnë provat, përdor formularin dhe lexo kontrollin automatik.
 Mos krijo dorëzim të dytë për të njëjtën javë. Kontrolli teknik nuk provon
 funksionimin e databazës dhe nuk është notë.
 
-## Burimi dhe ndihma nga AI
 
-Kodi i rrjedhës dhe SQL-ja përshtaten nga shembujt e Javës 3–4 të Prof. Arben Lila.
-Codex përgatiti konfigurimin, implementimin, pamjen dhe dokumentimin.
-Provat e studentit në klasë nuk deklarohen si të kryera nga AI.
 
 ## Rezultati i dorëzimit · Java 4
 
