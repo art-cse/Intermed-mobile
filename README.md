@@ -94,12 +94,19 @@ npm run typecheck
 npm run build
 ```
 
-## Vercel (opsionale për këtë javë)
+## Publikimi në Vercel
 
-Importo repository-n në Vercel, zgjidh **Next.js** dhe **Root Directory:
-aplikacioni**. Lidh Neon përmes Storage/Marketplace me planin Free.
-Vendos `DATABASE_URL` për Production dhe Development; përdor të njëjtën
-degë/databazë për provat lokale. Bëj Redeploy nëse variabla u shtua më vonë.
+Aplikacioni online: **[intermed-mobile.vercel.app](https://intermed-mobile.vercel.app/)**.
+
+U publikua më 08.10.2026 nga `art-cse/Intermed-mobile`, dega `main`,
+me **Next.js** dhe **Root Directory: aplikacioni**. Projekti Vercel
+`intermed-mobile` përdor databazën ekzistuese Neon Intermed përmes
+`DATABASE_URL`, të ruajtur si variabël sensitive vetëm për **Production**.
+Zhvillimi lokal përdor `.env.local`, i përjashtuar nga Git.
+
+Në adresën publike u verifikuan tri kartat nga Neon, detajet e ID 2
+me orën 08:15, kërkesa e simuluar, bllokimi kur nuk ka vende dhe HTTP 404
+për ID 99. Kërkesat mbeten simulim; nuk krijohen rezervime reale.
 
 ## Dorëzimi
 

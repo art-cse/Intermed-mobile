@@ -38,11 +38,13 @@ Në fund u rikthyen ora 08:15, pyetja pa WHERE false dhe emri DATABASE_URL.
 
 Repository publik: https://github.com/art-cse/Intermed-mobile
 
-Kodi është te aplikacioni/, SQL-ja te aplikacioni/schema.sql, lidhja te src/lib/db.ts, pyetjet te src/lib/udhetimet.ts, faqet te src/app/ dhe karta te src/components/KartaUdhetimi.tsx. Raporti është pranë README. Vercel nuk është publikuar; publikimi online është opsional këtë javë.
+Kodi është te aplikacioni/, SQL-ja te aplikacioni/schema.sql, lidhja te src/lib/db.ts, pyetjet te src/lib/udhetimet.ts, faqet te src/app/ dhe karta te src/components/KartaUdhetimi.tsx. Raporti është pranë README.
+
+Aplikacioni u publikua më 08.10.2026 në [intermed-mobile.vercel.app](https://intermed-mobile.vercel.app/). Vercel përdor Root Directory `aplikacioni` dhe databazën ekzistuese Neon përmes `DATABASE_URL` sensitive për Production. Në adresën publike u verifikuan lista me tri karta, detajet e ID 2 me orën 08:15, kërkesa e simuluar, bllokimi pa vende dhe HTTP 404 për ID 99.
 
 ## Çfarë mbetet për përmirësim
 
-Kërkesa mbetet simulim: nuk ruhet rezervim dhe nuk njoftohet shoferi. Demonstrimi nga studenti dhe puna me kolegun në klasë mbeten për t'u bërë personalisht. Publikimi në Vercel mund të shtohet më vonë.
+Kërkesa mbetet simulim: nuk ruhet rezervim dhe nuk njoftohet shoferi. Demonstrimi nga studenti dhe puna me kolegun në klasë mbeten për t'u bërë personalisht.
 
 ## Ndihma nga AI (Artificial Intelligence – inteligjencë artificiale)
 
