@@ -42,7 +42,7 @@ Këto kontrolle nuk zëvendësojnë provat me databazën në klasë.
 Kodi është te `aplikacioni/`, SQL-ja te `aplikacioni/schema.sql`, lidhja te
 `src/lib/db.ts` dhe leximi te `src/lib/udhetimet.ts`. Faqet janë te `src/app/`
 dhe karta te `src/components/KartaUdhetimi.tsx`. Raporti është pranë README.
-Repository publik: në pritje të krijimit në GitHub. Vercel nuk është publikuar.
+Repository publik: https://github.com/art-cse/1clinic-intermed . Vercel nuk është publikuar.
 
 ## Çfarë mbetet për përmirësim
 
