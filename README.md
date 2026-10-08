@@ -101,3 +101,11 @@ funksionimin e databazës dhe nuk është notë.
 Kodi i rrjedhës dhe SQL-ja përshtaten nga shembujt e Javës 3–4 të Prof. Arben Lila.
 Codex përgatiti konfigurimin, implementimin, pamjen dhe dokumentimin.
 Provat e studentit në klasë nuk deklarohen si të kryera nga AI.
+
+## Rezultati i dorëzimit · Java 4
+
+[Darëzimi #393](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/393)
+kaloi **5/5 kontrolle teknike** më 08.10.2026.
+[Komenti i kontrollit](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/393#issuecomment-6060586926).
+Provat reale me Neon dhe kufizimet dokumentohen te `java-04.md`.
+Kontrolli automatik nuk është notë; demonstrimi në klasë mbetet përgjegjësi e studentit.
