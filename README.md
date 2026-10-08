@@ -122,3 +122,14 @@ kaloi **5/5 kontrolle teknike** më 08.10.2026.
 [Komenti i kontrollit](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/393#issuecomment-6060586926).
 Provat reale me Neon dhe kufizimet dokumentohen te `java-04.md`.
 Kontrolli automatik nuk është notë; demonstrimi në klasë mbetet përgjegjësi e studentit.
+
+## Dorëzimet e Javëve 1–4
+
+- [Java 1 — #395](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/395)
+- [Java 2 — #277, dorëzimi ekzistues i përditësuar](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/277)
+- [Java 3 — #396](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/396)
+- [Java 4 — #393](https://github.com/arbenl/arbenl-mobile-assignments-2025/issues/393)
+
+Raporti automatik kontrollon praninë teknike të materialeve. Intervistat,
+prova me kolegun, skica në letër dhe demonstrimi në klasë nuk zëvendësohen
+nga ky kontroll. Shih kufizimet e shënuara në secilin dokument.
